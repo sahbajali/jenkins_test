@@ -3,3 +3,4 @@ testing poll scm
 testing web hook
 testing poll scm
 trigger on build
+making changes for pollSCM()
